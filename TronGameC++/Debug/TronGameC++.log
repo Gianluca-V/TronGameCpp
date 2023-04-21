@@ -1,0 +1,4 @@
+﻿  TronGameC++.cpp
+C:\Users\gianl\Desktop\proyectos de programacion\TronGameC++\TronGameC++\TronGameC++.cpp(333,9): warning C4244: 'argumento': conversión de 'double' a 'DWORD'; posible pérdida de datos
+C:\Users\gianl\Desktop\proyectos de programacion\TronGameC++\TronGameC++\TronGameC++.cpp(365,1): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+  TronGameC++.vcxproj -> C:\Users\gianl\Desktop\proyectos de programacion\TronGameC++\Debug\TronGameC++.exe
